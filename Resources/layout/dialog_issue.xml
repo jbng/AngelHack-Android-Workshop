@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/editIssueTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="@string/ui_hint_issue_title" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editIssueBody"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editIssueTitle"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="@string/ui_hint_issue_body"
+        android:inputType="textMultiLine" />
+
+    <CheckBox
+        android:id="@+id/checkBoxAssignToMe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editIssueBody"
+        android:layout_centerHorizontal="true"
+        android:text="@string/ui_issue_assign_to_me" />
+
+</RelativeLayout>

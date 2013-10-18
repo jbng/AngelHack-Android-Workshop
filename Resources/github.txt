@@ -1,0 +1,8 @@
+client_id : 543fa5fa61b5b87e48c8
+client_secret : b25cfe0a0847f318228f2b5494be603fced4c315
+
+URL 
+https://github.com/login/oauth/authorize
+https://github.com/login/oauth/access_token
+
+http://www.xgouchet.fr/angel/oauth/login_success
