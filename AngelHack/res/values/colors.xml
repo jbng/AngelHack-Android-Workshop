@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="drawer_item_selected">#2c3e50</color>
+    <color name="drawer_item_pressed">#3498db</color>
+    <color name="drawer_item_focused">#2980b9</color>
+    <color name="drawer_background">#111</color>
+
+    <color name="repo_private">#f39c12</color>
+    <color name="repo_public">#3498db</color>
+</resources>

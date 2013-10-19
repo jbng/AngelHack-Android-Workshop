@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="drawer_items">
+        <item>My Questions</item>
+        <item>My Answers</item>
+        <item>My Tags</item>
+    </string-array>
+
+</resources>

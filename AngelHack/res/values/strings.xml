@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Angel Hack</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- Actions -->
+    <string name="action_add_issue">Add issue</string>
+
+    <!-- UI -->
+    <string name="ui_issue_new">New Issue</string>
+    <string name="ui_issue_create">Create</string>
+    <string name="ui_issue_cancel">Cancel</string>
+    <string name="ui_hint_issue_title">Issue Title</string>
+    <string name="ui_hint_issue_body">Issue description</string>
+    <string name="ui_issue_assign_to_me">Assign to me</string>
+
+</resources>
